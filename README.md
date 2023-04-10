@@ -5,8 +5,8 @@ This is a web application created using [ReactJS](https://reactjs.org/) and [Red
 ## Used Tools and Technologies
 
 - ReactJS
-- Redux
-- Ant design
+- Redux (How can I install Redux)
+- Ant design (what's Ant design)?
 
 ## Available Scripts & how to run this project on your local machine
 
